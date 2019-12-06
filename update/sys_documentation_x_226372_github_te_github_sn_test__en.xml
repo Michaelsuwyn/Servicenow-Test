@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Github SN test" language="en" table="x_226372_github_te_github_sn_test">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Github SN test</label>
+            <language>en</language>
+            <name>x_226372_github_te_github_sn_test</name>
+            <plural>Github SN tests</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-12-06 16:00:42</sys_created_on>
+            <sys_id>2f54c979dbe9001055256781ca961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Github SN test</sys_name>
+            <sys_package display_value="github_test" source="x_226372_github_te">dce3c5f5dbe9001055256781ca961994</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="github_test">dce3c5f5dbe9001055256781ca961994</sys_scope>
+            <sys_update_name>sys_documentation_x_226372_github_te_github_sn_test__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-12-06 16:00:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
